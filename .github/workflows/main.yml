@@ -53,7 +53,7 @@ jobs:
           name: skim_ggH
           path: skim_ggH.root
 
-  plot:
-    needs: build_skim
-    runs-n: ubuntu-latest
+  #plot:
+ #   needs: build_skim
+ #   runs-n: ubuntu-latest
     
